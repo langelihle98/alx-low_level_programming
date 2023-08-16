@@ -1,7 +1,10 @@
 #include "main.h"
 #include <unistd.h>
-
-
+/**
+ * main - print _putchar
+ * is writeen by mbah
+ * Return: 0
+ */
 int main(void)
 {
 _putchar('_');
