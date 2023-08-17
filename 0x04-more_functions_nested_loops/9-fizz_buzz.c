@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/**
+ * main -entry point
+ */
 int main(void)
 {
 for (int i = 1; i <= 100; i++)
