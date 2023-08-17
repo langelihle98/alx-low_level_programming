@@ -16,7 +16,7 @@ if (num == 2 || num == 4)
 {
 continue;
 }
- else
+else
 {
 _putchar(num + '0');
 }
