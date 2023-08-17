@@ -3,7 +3,6 @@
 #include <unistd.h>
 
 /**
- * _putchar - Writes a character to the standard output.
  * @c: The character to be written.
  *
  * Return: On success, 1. On error, -1 is returned,
@@ -28,8 +27,7 @@ _putchar('\n');
 }
 
 /**
- * main - Entry point of the program.
- *
+ 
  * This function serves as the entry point for the program. It
  * calls the print_numbers function to print the numbers from 0 to 9.
  *
