@@ -2,17 +2,16 @@
 #include<stdio.h>
 
 /**
- * _memset - fills memory with a constant byte
+ * _memset - Entry point
  *
  * @s: pointer destinstion
  * @b: the constant byte
  * @n: bytes
  *
- * Returns: a pointer to the memory area s
+ * Returns: Always 0 (Success)
  */
 
 char *_memset(char *s, char b, unsigned int n)
-
 {
 unsigned int i;
 
